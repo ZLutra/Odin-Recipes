@@ -1,1 +1,1 @@
-# odin-recipes
+A basic recipe list to test my HTML skills.
